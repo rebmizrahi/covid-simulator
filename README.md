@@ -1,6 +1,6 @@
 # covid-simulator
 
-Computer Programming, Dawson College, May 2020
+Computer Programming, Dawson College, May 2020<br>
 Comprehensive Examination
 
 This CE is an extension of the final term project but is not relevant to that project. Using some of the code from the models of the spread of COVID-19, 
