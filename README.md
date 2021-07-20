@@ -3,11 +3,8 @@
 Computer Programming, Dawson College, May 2020<br>
 Comprehensive Examination
 
-This CE is an extension of the final term project but is not relevant to that project. Using some of the code from the models of the spread of COVID-19, 
-I made a game where the player is part of the simulation. The player is one of the susceptible balls and the goal is to avoid colliding with an infected 
-ball for as long as possible. If any susceptible balls collide with an infected, they become infected as well. The game gets harder as time goes on as more 
-people become infected. It also gets harder as a new susceptible person is added to the game every 2 seconds. The score at the end is how long the player 
-stays healthy. I built the initial simulation with PyGame, and I think this is a good way to explore the main use of the module by adding a game to the simulation.
+For my final term project and comprehensive examination I made a covid simulator. Balls represent people and move in random directions at different speeds. If a susceptible ball touches an infected ball, it too becomes infected. After a certain amount of time the infected recovers and can no longer spread the virus (assumed immunity).
+There is also a game version where you control a susceptible ball in the simulation. Move with the mouse and try to avoid getting infected for as long as possible.
 
 
 
