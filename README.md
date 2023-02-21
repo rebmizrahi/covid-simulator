@@ -1,5 +1,14 @@
 # covid-simulator
 
+Run simulator with
+`python3 "disease sim1.py"` <br>
+Run game with
+`python3 "covid game.py"`
+
+
+Dependency downlaods:
+`pip3 install matplotlib && pip3 install pygame`
+
 Computer Programming, Dawson College, May 2020<br>
 Comprehensive Examination
 
