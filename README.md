@@ -6,7 +6,7 @@ Run game with
 `python3 "covid game.py"`
 
 
-Dependency downlaods:
+Dependency downloads:
 `pip3 install matplotlib && pip3 install pygame`
 
 Computer Programming, Dawson College, May 2020<br>
